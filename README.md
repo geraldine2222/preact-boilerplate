@@ -1,4 +1,5 @@
 # Preact Boilerplate / Starter Kit [![Build Status](https://travis-ci.org/developit/preact-boilerplate.svg?branch=master)](https://travis-ci.org/developit/preact-boilerplate) [![Preact Slack Community](https://preact-slack.now.sh/badge.svg)](https://preact-slack.now.sh)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgeraldine2222%2Fpreact-boilerplate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgeraldine2222%2Fpreact-boilerplate?ref=badge_shield)
 
 :guitar: Ready-to-rock [Preact] starter project, powered by [webpack]. **[(View Demo)](https://preact-boilerplate.surge.sh)**
 
@@ -176,3 +177,6 @@ MIT
 [Preact]: https://github.com/developit/preact
 [preact-compat]: https://github.com/developit/preact-compat
 [webpack]: https://webpack.github.io
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgeraldine2222%2Fpreact-boilerplate.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgeraldine2222%2Fpreact-boilerplate?ref=badge_large)
